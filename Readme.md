@@ -20,7 +20,7 @@ The Product Management System (PMS) is a web application designed to help users 
 ## User Authentication
 -- Login and Registration: Secure authentication for users.
 - Protected Routes: Only authenticated users can access protected pages.
-- Product Management
+## Product Management
 - Add Products: Add new products with details like name, category, description, and price.
 - Edit Products: Update product details inline with ease.
 - Delete Products: Delete products with confirmation prompts.
