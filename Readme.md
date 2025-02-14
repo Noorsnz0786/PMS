@@ -18,13 +18,13 @@ The Product Management System (PMS) is a web application designed to help users 
 
 #  Features
 ## User Authentication
--- Login and Registration : Secure authentication for users.
-- Protected Routes : Only authenticated users can access protected pages.
+-- Login and Registration: Secure authentication for users.
+- Protected Routes: Only authenticated users can access protected pages.
 - Product Management
-- Add Products : Add new products with details like name, category, description, and price.
-- Edit Products : Update product details inline with ease.
-- Delete Products : Delete products with confirmation prompts.
-- View Products : View all products in a clean, tabular format.
+- Add Products: Add new products with details like name, category, description, and price.
+- Edit Products: Update product details inline with ease.
+- Delete Products: Delete products with confirmation prompts.
+- View Products: View all products in a clean, tabular format.
 
 # Responsive Design
 Fully responsive UI built using Tailwind CSS for a seamless experience across devices.
@@ -42,7 +42,7 @@ Graceful error handling for API failures and invalid inputs.
     - Database
     - MySQL
     - Authentication
-    - Laravel Sanctum (Token-based)
+    - JWT
     - Tools
     - Git, npm/yarn, Postman
 
