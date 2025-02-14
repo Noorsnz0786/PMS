@@ -139,7 +139,7 @@ export default function ProductList() {
                 </table>
             </div>
 
-            {/* Pagination Controls */}
+            {/* //  Pagination Controls */}
             <div className="flex justify-center mt-6 space-x-4">
                 <button
                     onClick={() => handlePageChange(pagination.currentPage - 1)}

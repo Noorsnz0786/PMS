@@ -12,7 +12,7 @@ export default function Page() {
   if (isLoggedIn) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gray-100">
-        {/* <div className="text-center space-y-4">
+        <div className="text-center space-y-4">
           <p className="text-lg text-gray-700">You are already logged in.</p>
           <button
             onClick={() => router.push('/dashboard')}
@@ -29,7 +29,7 @@ export default function Page() {
           >
             Logout
           </button>
-        </div> */}
+        </div>
       </div>
     );
   }
