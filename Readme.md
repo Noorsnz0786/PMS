@@ -26,10 +26,7 @@ The Product Management System (PMS) is a web application designed to help users 
 - Delete Products: Delete products with confirmation prompts.
 - View Products: View all products in a clean, tabular format.
 
-# Responsive Design
-Fully responsive UI built using Tailwind CSS for a seamless experience across devices.
-Error Handling
-Graceful error handling for API failures and invalid inputs.
+
 # Tech Stack
 - Frontend
     - Next.js, TypeScript, Tailwind CSS
