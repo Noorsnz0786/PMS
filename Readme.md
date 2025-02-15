@@ -40,6 +40,6 @@ The Product Management System (PMS) is a web application designed to help users 
     - MySQL
     - Authentication
     - JWT
-    - Tools
+- Tools
     - Git, npm/yarn, Postman
 
